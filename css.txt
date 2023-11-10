@@ -5,7 +5,7 @@
 <stong><h1>hi iam rasmitha</h1></strong>
 <ul>
   <li>pallavi</li>
-  <li>lekha</li>
+  deleted
 </ul>
 </body>
 </html>
