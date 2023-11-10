@@ -4,8 +4,8 @@
 <body>
 <stong><h1>hi iam rasmitha</h1></strong>
 <ul>
-  <li>pallavi</li>
-  deleted 123
+  <li>hello</li>
+  pallavi
 </ul>
 </body>
 </html>
